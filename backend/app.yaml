@@ -1,0 +1,3 @@
+runtime: python39
+service: nocodeai-backend-service
+instance_class: F4_1G

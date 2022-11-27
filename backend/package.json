@@ -1,0 +1,9 @@
+{
+  "name": "auto-ml-backend-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "pip3 install -r requirements.txt",
+    "dev": "python3 main.py dev_mode"
+  }
+}
