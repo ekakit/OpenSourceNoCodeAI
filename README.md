@@ -4,47 +4,17 @@ No code AI is the best way to write secure and reliable AI applications.
 
 ## Getting Started
 
-Start by not writing any code.
+The repository contains both the frontend and backend components. To run either of those componenets go to their respective folders and run the command below:
 
 ```
-
+yarn dev
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
-
-```
-
-```
-
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
-
-```
-
-```
-
-Yep. That's it. You should see the following output:
-
-```
-
-```
 
 ### Deploying
 
-By running the following command you can deploy your application absolutely nowhere.
+You can deploy the application on your own environment as required by your organisation or your use case.
 
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
 
 ## Contributing
 
